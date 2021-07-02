@@ -5,3 +5,5 @@ Basic Discord intergration for MC that can run on a vanilla server. Simply compi
 Future plans: 
 1) Make the whole project more user friendly
 2) Send messages to a web server and then have the discord bot grab them from there. This way, the bot can run on a seperate machine.
+3) Make the discord message look nicer
+4) Add in remote commands and chat back
